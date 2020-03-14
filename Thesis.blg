@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Thesis.aux
+The style file: Biblio/gbt7714-plain.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: Biblio/ref.bib
+Warning--empty year in YuDS
+Warning--empty year in BertaDynaSLAM
+Warning--empty year in MccormacSemanticFusion
+Warning--empty year in LiSemi
+Warning--empty year in HeMask
+Warning--empty year in VijaySegNet
+Warning--empty year in LoweDistinctive
+Warning--empty year in HartleyIn
+Warning--empty year in GaoComplete
+Warning--empty year in VijaySegNet
+Warning--empty year in BertaDynaSLAM
+Warning--empty year in GaoComplete
+Warning--empty year in HartleyIn
+Warning--empty year in HeMask
+Warning--empty journal in LiSemi
+Warning--empty year in LiSemi
+Warning--empty year in LoweDistinctive
+Warning--empty journal in MccormacSemanticFusion
+Warning--empty year in MccormacSemanticFusion
+Warning--empty booktitle in whelan2015elasticfusion
+Warning--empty journal in YuDS
+Warning--empty year in YuDS
+You've used 41 entries,
+            4429 wiz_defined-function locations,
+            1148 strings with 14368 characters,
+and the built_in function-call counts, 246069 in all, are:
+= -- 3485
+> -- 28858
+< -- 37282
++ -- 10251
+- -- 481
+* -- 2012
+:= -- 33742
+add.period$ -- 119
+call.type$ -- 41
+change.case$ -- 375
+chr.to.int$ -- 9227
+cite$ -- 104
+duplicate$ -- 1016
+empty$ -- 2549
+format.name$ -- 878
+if$ -- 63789
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 233
+num.names$ -- 197
+pop$ -- 13530
+preamble$ -- 1
+purify$ -- 226
+quote$ -- 0
+skip$ -- 25202
+stack$ -- 0
+substring$ -- 10157
+swap$ -- 90
+text.length$ -- 403
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 643
+warning$ -- 22
+while$ -- 575
+width$ -- 0
+write$ -- 579
+(There were 22 warnings)

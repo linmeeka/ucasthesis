@@ -1,0 +1,296 @@
+\begin{thebibliography}{41}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
+  \urlstyle{same}\fi
+\providecommand{\href}[2]{\url{#2}}
+\providecommand{\doi}[1]{\href{https://doi.org/#1}{#1}}
+
+\bibitem[{Badrinarayanan {\bibetal}()Badrinarayanan, Kendall, and
+  Cipolla}]{VijaySegNet}
+BADRINARAYANAN~V, KENDALL~A, CIPOLLA~R.
+\newblock Segnet: A deep convolutional encoder-decoder architecture for image
+  segmentation\allowbreak[J].
+\newblock IEEE Transactions on Pattern Analysis and Machine Intelligence,
+  39\penalty0 (12):\penalty0 2481-2495.
+
+\bibitem[{Bay {\bibetal}(2006)Bay, Tuytelaars, and Gool}]{Bay2006SURF}
+BAY~H, TUYTELAARS~T, GOOL~L~J~V.
+\newblock Surf: Speeded up robust features\allowbreak[C]//\allowbreak
+Computer Vision - ECCV 2006, 9th European Conference on Computer Vision, Graz,
+  Austria, May 7-13, 2006, Proceedings, Part I.
+\newblock 2006.
+
+\bibitem[{Berta {\bibetal}()Berta, M., Javier, and Jose}]{BertaDynaSLAM}
+BERTA~B, M.~F~J, JAVIER~C, et~al.
+\newblock Dynaslam: Tracking, mapping and inpainting in dynamic
+  scenes\allowbreak[J].
+\newblock IEEE Robotics \& Automation Letters:\penalty0 1-1.
+
+\bibitem[{Bouguet {\bibetal}(2001)Bouguet et~al.}]{bouguet2001pyramidal}
+BOUGUET~J~Y, et~al.
+\newblock Pyramidal implementation of the affine lucas kanade feature tracker
+  description of the algorithm\allowbreak[J].
+\newblock Intel Corporation, 2001, 5\penalty0 (1-10):\penalty0 4.
+
+\bibitem[{Chen {\bibetal}(2014)Chen, Papandreou, Kokkinos, Murphy, and
+  Yuille}]{Chen2014Semantic}
+CHEN~L~C, PAPANDREOU~G, KOKKINOS~I, et~al.
+\newblock Semantic image segmentation with deep convolutional nets and fully
+  connected crfs\allowbreak[J].
+\newblock Computer Science, 2014\penalty0 (4):\penalty0 357-361.
+
+\bibitem[{Chen {\bibetal}(2018)Chen, Zhu, Papandreou, Schroff, and
+  Adam}]{chen2018encoder}
+CHEN~L~C, ZHU~Y, PAPANDREOU~G, et~al.
+\newblock Encoder-decoder with atrous separable convolution for semantic image
+  segmentation\allowbreak[C]//\allowbreak
+Proceedings of the European conference on computer vision (ECCV).
+\newblock 2018: 801-818.
+
+\bibitem[{Engel {\bibetal}(2014)Engel, Schöps, and Cremers}]{Engel2014LSD}
+ENGEL~J, SCHöPS~T, CREMERS~D.
+\newblock Lsd-slam: Large-scale direct monocular
+  slam\allowbreak[C]//\allowbreak
+European Conference on Computer Vision.
+\newblock 2014.
+
+\bibitem[{Gao {\bibetal}()Gao, Hou, Tang, and Cheng}]{GaoComplete}
+GAO~X~S, HOU~X~R, TANG~J, et~al.
+\newblock Complete solution classification for the perspective-three-point
+  problem\allowbreak[J].
+\newblock IEEE Transactions on Pattern Analysis \& Machine Intelligence,
+  25\penalty0 (8):\penalty0 0-943.
+
+\bibitem[{Girshick(2015)}]{girshick2015fast}
+GIRSHICK~R.
+\newblock Fast r-cnn\allowbreak[C]//\allowbreak
+Proceedings of the IEEE international conference on computer vision.
+\newblock 2015: 1440-1448.
+
+\bibitem[{Hartley {\biband} R.I.()Hartley and R.I.}]{HartleyIn}
+HARTLEY, R.I.
+\newblock In defense of the eight-point algorithm\allowbreak[J].
+\newblock IEEE Pami, 19\penalty0 (6):\penalty0 0-593.
+
+\bibitem[{Hartley {\biband} Zisserman(2003)Hartley and
+  Zisserman}]{hartley2003multiple}
+HARTLEY~R, ZISSERMAN~A.
+\newblock Multiple view geometry in computer vision\allowbreak[M].
+\newblock Cambridge university press, 2003.
+
+\bibitem[{He {\bibetal}()He, Georgia, Piotr, and Ross}]{HeMask}
+HE~K, GEORGIA~G, PIOTR~D, et~al.
+\newblock Mask r-cnn\allowbreak[J].
+\newblock IEEE Transactions on Pattern Analysis \& Machine
+  Intelligence:\penalty0 1-1.
+
+\bibitem[{He {\bibetal}(2016)He, Zhang, Ren, and Sun}]{he2016deep}
+HE~K, ZHANG~X, REN~S, et~al.
+\newblock Deep residual learning for image
+  recognition\allowbreak[C]//\allowbreak
+Proceedings of the IEEE conference on computer vision and pattern recognition.
+\newblock 2016: 770-778.
+
+\bibitem[{Hoang {\bibetal}(2019)Hoang, Stoyanov, and
+  Lilienthal}]{hoang2019high}
+HOANG~D~C, STOYANOV~T, LILIENTHAL~A~J.
+\newblock High-quality instance-aware semantic 3d map using rgb-d
+  camera\allowbreak[J].
+\newblock arXiv preprint arXiv:1903.10782, 2019.
+
+\bibitem[{Klein {\biband} Murray(2007)Klein and Murray}]{Klein2007Parallel}
+KLEIN~G, MURRAY~D.
+\newblock Parallel tracking and mapping for small ar
+  workspaces\allowbreak[C]//\allowbreak
+Mixed and Augmented Reality, 2007. ISMAR 2007. 6th IEEE and ACM International
+  Symposium on.
+\newblock 2007.
+
+\bibitem[{Lepetit {\bibetal}(2009)Lepetit, Moreno-Noguer, and
+  Fua}]{lepetit2009epnp}
+LEPETIT~V, MORENO-NOGUER~F, FUA~P.
+\newblock Epnp: An accurate o (n) solution to the pnp problem\allowbreak[J].
+\newblock International journal of computer vision, 2009, 81\penalty0
+  (2):\penalty0 155.
+
+\bibitem[{Li {\biband} Belaroussi()Li and Belaroussi}]{LiSemi}
+LI~X, BELAROUSSI~R.
+\newblock Semi-dense 3d semantic mapping from monocular slam\allowbreak[J].
+
+\bibitem[{Lin {\bibetal}(2014)Lin, Maire, Belongie, Hays, Perona, Ramanan,
+  Doll{\'a}r, and Zitnick}]{lin2014microsoft}
+LIN~T~Y, MAIRE~M, BELONGIE~S, et~al.
+\newblock Microsoft coco: Common objects in context\allowbreak[C]//\allowbreak
+European conference on computer vision.
+\newblock Springer, 2014: 740-755.
+
+\bibitem[{Liu {\bibetal}(2016)Liu, Anguelov, Erhan, Szegedy, and
+  Berg}]{Liu2016SSD}
+LIU~W, ANGUELOV~D, ERHAN~D, et~al.
+\newblock Ssd: Single shot multibox detector\allowbreak[C]//\allowbreak
+European Conference on Computer Vision.
+\newblock 2016.
+
+\bibitem[{Long {\bibetal}(2015)Long, Shelhamer, and Darrell}]{long2015fully}
+LONG~J, SHELHAMER~E, DARRELL~T.
+\newblock Fully convolutional networks for semantic
+  segmentation\allowbreak[C]//\allowbreak
+Proceedings of the IEEE conference on computer vision and pattern recognition.
+\newblock 2015: 3431-3440.
+
+\bibitem[{LONGUET-HIGGINS(1981)}]{LONGUET1981A}
+LONGUET-HIGGINS~H~C.
+\newblock A computer algorithm for reconstructing a scene from two
+  projections\allowbreak[J].
+\newblock Nature, 1981, 293\penalty0 (5828):\penalty0 133-135.
+
+\bibitem[{Lowe()}]{LoweDistinctive}
+LOWE~D~G.
+\newblock Distinctive image features from scale-invariant
+  keypoints\allowbreak[J].
+\newblock International Journal of Computer Vision, 60\penalty0 (2):\penalty0
+  91-110.
+
+\bibitem[{Mccormac {\bibetal}()Mccormac, Handa, Davison, and
+  Leutenegger}]{MccormacSemanticFusion}
+MCCORMAC~J, HANDA~A, DAVISON~A, et~al.
+\newblock Semanticfusion: Dense 3d semantic mapping with convolutional neural
+  networks\allowbreak[J].
+
+\bibitem[{McCormac {\bibetal}(2018)McCormac, Clark, Bloesch, Davison, and
+  Leutenegger}]{mccormac2018fusion++}
+MCCORMAC~J, CLARK~R, BLOESCH~M, et~al.
+\newblock Fusion++: Volumetric object-level slam\allowbreak[C]//\allowbreak
+2018 international conference on 3D vision (3DV).
+\newblock IEEE, 2018: 32-41.
+
+\bibitem[{Mur-Artal {\biband} Tard{\'o}s(2017)Mur-Artal and
+  Tard{\'o}s}]{mur2017orb}
+MUR-ARTAL~R, TARD{\'O}S~J~D.
+\newblock Orb-slam2: An open-source slam system for monocular, stereo, and
+  rgb-d cameras\allowbreak[J].
+\newblock IEEE Transactions on Robotics, 2017, 33\penalty0 (5):\penalty0
+  1255-1262.
+
+\bibitem[{Mur-Artal {\bibetal}(2015)Mur-Artal, Montiel, and
+  Tardos}]{mur2015orb}
+MUR-ARTAL~R, MONTIEL~J~M~M, TARDOS~J~D.
+\newblock Orb-slam: a versatile and accurate monocular slam
+  system\allowbreak[J].
+\newblock IEEE transactions on robotics, 2015, 31\penalty0 (5):\penalty0
+  1147-1163.
+
+\bibitem[{Newcombe {\bibetal}(2011)Newcombe, Izadi, Hilliges, Molyneaux, and
+  Fitzgibbon}]{Newcombe2011KinectFusion}
+NEWCOMBE~R~A, IZADI~S, HILLIGES~O, et~al.
+\newblock Kinectfusion: Real-time dense surface mapping and
+  tracking\allowbreak[C]//\allowbreak
+10th IEEE International Symposium on Mixed and Augmented Reality, ISMAR 2011,
+  Basel, Switzerland, October 26-29, 2011.
+\newblock 2011.
+
+\bibitem[{Pathak {\bibetal}(2016)Pathak, Krahenbuhl, Donahue, Darrell, and
+  Efros}]{pathak2016context}
+PATHAK~D, KRAHENBUHL~P, DONAHUE~J, et~al.
+\newblock Context encoders: Feature learning by
+  inpainting\allowbreak[C]//\allowbreak
+Proceedings of the IEEE conference on computer vision and pattern recognition.
+\newblock 2016: 2536-2544.
+
+\bibitem[{Qi {\bibetal}(2018)Qi, Yang, and Yan}]{qi2018deep}
+QI~X, YANG~S, YAN~Y.
+\newblock Deep learning based semantic labelling of 3d point cloud in visual
+  slam\allowbreak[C]//\allowbreak
+IOP Conference Series: Materials Science and Engineering: volume 428.
+\newblock IOP Publishing, 2018: 012023.
+
+\bibitem[{Redmon {\biband} Farhadi(2018)Redmon and Farhadi}]{redmon2018yolov3}
+REDMON~J, FARHADI~A.
+\newblock Yolov3: An incremental improvement\allowbreak[J].
+\newblock arXiv preprint arXiv:1804.02767, 2018.
+
+\bibitem[{Ren {\bibetal}(2015)Ren, He, Girshick, and Sun}]{ren2015faster}
+REN~S, HE~K, GIRSHICK~R, et~al.
+\newblock Faster r-cnn: Towards real-time object detection with region proposal
+  networks\allowbreak[C]//\allowbreak
+Advances in neural information processing systems.
+\newblock 2015: 91-99.
+
+\bibitem[{Ronneberger {\bibetal}(2015)Ronneberger, Fischer, and
+  Brox}]{ronneberger2015u}
+RONNEBERGER~O, FISCHER~P, BROX~T.
+\newblock U-net: Convolutional networks for biomedical image
+  segmentation\allowbreak[C]//\allowbreak
+International Conference on Medical image computing and computer-assisted
+  intervention.
+\newblock Springer, 2015: 234-241.
+
+\bibitem[{Rublee {\bibetal}(2012)Rublee, Rabaud, Konolige, and
+  Bradski}]{Rublee2012ORB}
+RUBLEE~E, RABAUD~V, KONOLIGE~K, et~al.
+\newblock Orb: An efficient alternative to sift or
+  surf\allowbreak[C]//\allowbreak
+2011 International Conference on Computer Vision.
+\newblock 2012.
+
+\bibitem[{Runz {\bibetal}(2018)Runz, Buffier, and Agapito}]{runz2018maskfusion}
+RUNZ~M, BUFFIER~M, AGAPITO~L.
+\newblock Maskfusion: Real-time recognition, tracking and reconstruction of
+  multiple moving objects\allowbreak[C]//\allowbreak
+2018 IEEE International Symposium on Mixed and Augmented Reality (ISMAR).
+\newblock IEEE, 2018: 10-20.
+
+\bibitem[{Rusu {\biband} Cousins(2011)Rusu and Cousins}]{rusu20113d}
+RUSU~R~B, COUSINS~S.
+\newblock 3d is here: Point cloud library (pcl)\allowbreak[C]//\allowbreak
+2011 IEEE international conference on robotics and automation.
+\newblock IEEE, 2011: 1-4.
+
+\bibitem[{Sturm {\bibetal}(2012)Sturm, Engelhard, Endres, Burgard, and
+  Cremers}]{sturm2012benchmark}
+STURM~J, ENGELHARD~N, ENDRES~F, et~al.
+\newblock A benchmark for the evaluation of rgb-d slam
+  systems\allowbreak[C]//\allowbreak
+2012 IEEE/RSJ International Conference on Intelligent Robots and Systems.
+\newblock IEEE, 2012: 573-580.
+
+\bibitem[{Sünderhauf {\bibetal}(2017)Sünderhauf, Pham, Latif, Milford, and
+  Reid}]{S2017Meaningful}
+SüNDERHAUF~N, PHAM~T~T, LATIF~Y, et~al.
+\newblock Meaningful maps with object-oriented semantic
+  mapping\allowbreak[C]//\allowbreak
+2017 IEEE/RSJ International Conference on Intelligent Robots and Systems
+  (IROS).
+\newblock 2017.
+
+\bibitem[{Tateno {\bibetal}(2017)Tateno, Tombari, Laina, and
+  Navab}]{tateno2017cnn}
+TATENO~K, TOMBARI~F, LAINA~I, et~al.
+\newblock Cnn-slam: Real-time dense monocular slam with learned depth
+  prediction\allowbreak[C]//\allowbreak
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+\newblock 2017: 6243-6252.
+
+\bibitem[{Whelan {\bibetal}(2015)Whelan, Leutenegger, Salas-Moreno, Glocker,
+  and Davison}]{whelan2015elasticfusion}
+WHELAN~T, LEUTENEGGER~S, SALAS-MORENO~R, et~al.
+\newblock Elasticfusion: Dense slam without a pose
+  graph\allowbreak[C]//\allowbreak
+Robotics: Science and Systems, 2015.
+
+\bibitem[{Yu {\bibetal}()Yu, Liu, Liu, Xie, Yang, Wei, and Fei}]{YuDS}
+YU~C, LIU~Z, LIU~X, et~al.
+\newblock Ds-slam: A semantic visual slam towards dynamic
+  environments\allowbreak[J].
+
+\bibitem[{Zeng {\bibetal}(2018)Zeng, Zhou, Jenkins, and
+  Desingh}]{zeng2018semantic}
+ZENG~Z, ZHOU~Y, JENKINS~O~C, et~al.
+\newblock Semantic mapping with simultaneous object detection and
+  localization\allowbreak[C]//\allowbreak
+2018 IEEE/RSJ International Conference on Intelligent Robots and Systems
+  (IROS).
+\newblock IEEE, 2018: 911-918.
+
+\end{thebibliography}

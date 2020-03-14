@@ -1,0 +1,27 @@
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces AR用于儿童教育行业。\relax }}{1}{figure.caption.16}% 
+\contentsline {figure}{\numberline {1.2}{\ignorespaces AR系统工作流程图。\relax }}{2}{figure.caption.17}% 
+\contentsline {figure}{\numberline {1.3}{\ignorespaces 基于场景理解的AR系统。(a) 场景理解，(b) 虚拟物体跟踪注册。\relax }}{3}{figure.caption.18}% 
+\contentsline {figure}{\numberline {1.4}{\ignorespaces 系统研究框架。\relax }}{8}{figure.caption.19}% 
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces 典型SLAM系统结构。\relax }}{12}{figure.caption.20}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces KD 树结构。\relax }}{17}{figure.caption.21}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces ORB-SLAM2系统结构。\relax }}{19}{figure.caption.22}% 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces 实例分割网络Mask R-CNN。\relax }}{20}{figure.caption.23}% 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Mask R-CNN网络结构。\relax }}{21}{figure.caption.24}% 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Mask R-CNN的头部网络结构。\relax }}{21}{figure.caption.25}% 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces 本文所提出的基于ORB-SLAM2的系统结构。\relax }}{22}{figure.caption.26}% 
+\contentsline {figure}{\numberline {2.8}{\ignorespaces 系统工作流程。\relax }}{23}{figure.caption.27}% 
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces 极线约束示意图。(a) 三维点静止时满足极线约束，(b) 三维点运动时不满足极线约束。\relax }}{26}{figure.caption.28}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces 双阶段的动态外点滤除算法流程。\relax }}{31}{figure.caption.29}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces 对于片段\emph {walking\_xyz}，ORB-SLAM2和本文所提出的系统的预测以及真值的轨迹可视化对比。\relax }}{37}{figure.caption.33}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces 片段\emph {walking\_xyz}上特征点滤除效果对比。(a) 第63帧原ORB特征点提取结果，(b) 第87帧原ORB特征点提取结果，(c) 第63帧滤除后的ORB特征点，(d) 第87帧滤除后的ORB特征点。\relax }}{39}{figure.caption.36}% 
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces 基于预置语义库地图的增强现实系统工作流程。\relax }}{41}{figure.caption.37}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 物体级语义建图模块工作流程。\relax }}{44}{figure.caption.38}% 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces \emph {walking\_xyz}序列第63帧和第87帧的建图效果。(a) 原彩色图，(b) 原深度图，(c) 实例分割结果，(c) 物体级语义建图效果。\relax }}{50}{figure.caption.39}% 
+\addvspace {10.0pt}
+\addvspace {10.0pt}
+\addvspace {10.0pt}
+\addvspace {10.0pt}
